@@ -1,3 +1,8 @@
+
+![IMG_3389](https://github.com/acmarsala/acmarsala/assets/142348479/bc119642-1e10-4395-9f21-2ccf4ee2d306)
+
+
+
 - 👋 Hi, I’m @acmarsala
 - 👀 I’m interested in creating websites
 - 🌱 I’m currently learning HTML
