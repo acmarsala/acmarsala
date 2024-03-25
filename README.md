@@ -3,7 +3,7 @@
 
 
 
-- 👋 Hi, I’m @acmarsala
+- 👋 Hi, I’m @acmarsala I currently live in Saint Louis MO where I was born and raised!
 - 👀 I’m interested in creating websites
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on coding
